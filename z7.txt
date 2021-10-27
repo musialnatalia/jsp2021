@@ -1,7 +1,0 @@
-Zmienna tymczasowa '_' w trybie interaktywnym zapamiętuje ostatni wynik/wyrażenie. Przykład:
-
->>> 5/2
-2.5
->>> a=_
->>> print(a)
-2.5
