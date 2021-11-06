@@ -1,0 +1,17 @@
+student = ['Kasia','Basia','Marek','Darek']
+print("Lista studentów: ", student)
+student.append('Józek')
+print("Lista studentów: ", student)
+student.extend(('Ania','Basia'))
+print("Lista studentów: ", student)
+student.sort()
+print("Posortowana lista studentów: ", student)
+print("Czwarty student z listy: ", student[3])
+print("Dwoje pierwszych studentów z listy: ", student[:2])
+print("Dwoje ostatnich studentów z listy: ", student[-2:])
+while "Basia" in student:
+	student.remove("Basia")
+print("Lista studentów: ", student)
+print("Ilość studentów na liście: ", len(student))
+tup=tuple(student)
+print(type(tup))
