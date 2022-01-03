@@ -10,7 +10,7 @@ elif N==0:
 	fib.append(0)
 else:
 	fib.extend((0,1))
-	for i in range(N-1):
+	for i in range(N):
 		x = tab[0]+tab[1]   
 		tab[0] = tab[1]
 		tab[1] = x
