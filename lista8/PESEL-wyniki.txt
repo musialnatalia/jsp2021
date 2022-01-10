@@ -1,0 +1,20 @@
+nr PESEL: 73923030528
+ data urodzenia 30-12-1873;	 płeć: kobieta
+nr PESEL: 41031434105
+ data urodzenia 14-03-1941;	 płeć: kobieta
+nr PESEL: 29720226284
+ data urodzenia 02-12-2229;	 płeć: kobieta
+nr PESEL: 24440162405
+ data urodzenia 01-04-2124;	 płeć: kobieta
+nr PESEL: 30882773697
+ data urodzenia 27-08-1830;	 płeć: mężczyzna
+nr PESEL: 63430487566
+ data urodzenia 04-03-2163;	 płeć: kobieta
+nr PESEL: 84120475375
+ data urodzenia 04-12-1984;	 płeć: mężczyzna
+nr PESEL: 96702193023
+ data urodzenia 21-10-2296;	 płeć: kobieta
+nr PESEL: 51890838794
+ data urodzenia 08-09-1851;	 płeć: mężczyzna
+nr PESEL: 39522242188
+ data urodzenia 22-12-2139;	 płeć: kobieta
